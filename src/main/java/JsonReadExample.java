@@ -9,7 +9,6 @@ public class JsonReadExample {
 
     public static void main(String[] args) throws FileNotFoundException {
         Gson gson = new Gson();
-
         FileReader r = new FileReader("out2.txt");
 
         Table t = gson.fromJson(r, Table.class);
