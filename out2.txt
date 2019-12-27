@@ -1,0 +1,17 @@
+{
+  "width": 60,
+  "height": 80,
+  "length": 120,
+  "name": "Рабочий",
+  "manufactured": "11/12/2019T21:08:16",
+  "date": 1573830496405,
+  "colors": [
+    "red",
+    "blue",
+    "black"
+  ],
+  "material": {
+    "legMaterial": "metal",
+    "boardMaterial": "wood"
+  }
+}
